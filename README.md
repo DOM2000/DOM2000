@@ -12,4 +12,4 @@ I'm Dominic, also known as DOM2000, a self-taught programmer specializing in web
 
 
 ## 🌱 Learning Goals:
-Currently, my focus is on mastering Unity and building engaging game projects.
+Currently, im unsure about weather to learn about Machine Learning/AI/Deep Learning or Unity/Game development. So I do a little bit of both.
